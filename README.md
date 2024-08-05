@@ -11,15 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about technology, self-development and business
 - 📫 How to reach me: aryaholmukhe@gmail.com
 - ⚡ Fun fact: I can speak 4 languages :)
-  
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aryaholmukhe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaholmukhe)](https://github.com/aryaholmukhe/github-readme-stats)
 
 <p>
-
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
