@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Terranom, a shared drone system with machine learning analysis to make farming efficient and affordable
 - 🌱 I’m currently learning about web-development and AI!
 - 💬 Ask me about technology, self-development and business
 - 📫 How to reach me: aryaholmukhe@gmail.com
